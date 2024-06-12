@@ -1,6 +1,6 @@
 <template>
 	<view>
-		<h1>页面未找到404</h1>
+		<h1>页面未找到 404</h1>
 	</view>
 </template>
 
