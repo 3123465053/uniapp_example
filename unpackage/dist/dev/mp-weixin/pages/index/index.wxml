@@ -1,0 +1,1 @@
+<view class="content"><text>微信</text><navigator url="/pages/404/404">404 页面</navigator><navigator url="/subpages/chat/chat">前往聊天</navigator></view>

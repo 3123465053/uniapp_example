@@ -1,0 +1,29 @@
+
+.scroll{
+ border:1px solid red;
+ box-sizing: border-box;
+ height: 220rpx;
+}
+.group{
+	white-space: nowrap;
+}
+.item{
+ 		 width: 220rpx;
+ 		 height: 220rpx;
+ 		 background: royalblue;
+		 display: inline-block;
+		 margin-right: 10rpx;
+}
+.img{
+}
+.swiper{
+	 height: 400rpx;
+}
+.swiper-image{
+	 width: 100%;
+	 height: 500rpx;
+}
+.swiper-item{
+	 padding: 20rpx;
+	 box-sizing: border-box;
+}
